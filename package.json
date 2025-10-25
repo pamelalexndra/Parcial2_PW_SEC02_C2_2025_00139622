@@ -1,0 +1,23 @@
+{
+  "name": "parcial2_pw_sec02_c2_2025_00139622",
+  "version": "1.0.0",
+  "description": "Backend para gestión de cuenta bancaria",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pamelalexndra/Parcial2_PW_SEC02_C2_2025_00139622.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pamelalexndra/Parcial2_PW_SEC02_C2_2025_00139622/issues"
+  },
+  "homepage": "https://github.com/pamelalexndra/Parcial2_PW_SEC02_C2_2025_00139622#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
